@@ -1,0 +1,9 @@
+Package: com.hamzasood.multitaskinggestures
+Name: MultitaskingGestures
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Hamza Sood
+Author: Hamza Sood
+Section: Tweaks

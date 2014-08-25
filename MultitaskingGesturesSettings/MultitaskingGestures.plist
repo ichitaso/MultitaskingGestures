@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "MultitaskingGesturesSettings";
+		cell = PSLinkCell;
+		detail = "MultitaskingGesturesSettingsListController";
+		icon = "MultitaskingGesturesSettings.png";
+		isController = YES;
+		label = "Multitasking Gestures";
+	};
+}
